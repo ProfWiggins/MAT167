@@ -1,4 +1,4 @@
-## Stat 104 Fall 2018 
+## MAT 167 Fall 2018 
 
 <!-- Want a banner image? Find the image you want and store it in the images directory with the name `banner.jpg`. (Or you can modify the file name in the next line, with any image URL you want. -->
 
@@ -7,7 +7,7 @@
 
 ## Welcome
 
-- My name is ...
+- Instructor: Professor Wiggins
 - Office Hours:
 - Textbook:
 
