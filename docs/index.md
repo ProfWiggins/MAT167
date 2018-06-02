@@ -21,7 +21,7 @@
 * Reading: Textbook Chap 1, pp. 14-19
 
 
-### Monday Sept 10
+### Day 2
 
 * Topic: Data into graphics
 * Reading: Textbook Chap 1, pp. 20-25
