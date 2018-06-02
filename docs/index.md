@@ -14,9 +14,9 @@
 
 ## Daily schedule: Fall 2018
 
-### Friday Sept 7
+### Day 1
 
-* Topic: Welcome to Stats 101
+* Topic: Welcome to Statistics
 * Lesson: [What is stats?](https://dtkaplan.shinyapps.io/Lesson_first_day_births/)
 * Reading: Textbook Chap 1, pp. 14-19
 
